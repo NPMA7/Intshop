@@ -1,7 +1,7 @@
-<p align="center"><a href="https://sitoko.online" target="_blank">Intshop</a></p>
+<p align="center"><a href="https://syntaxteam.github.io/intshop.github.io/" target="_blank" style="text-decoration: none; color:white">Intshop</a></p>
 
 # INTshop
-https://sitoko.online. This Web E-Commerce For a School Project
+https://syntaxteam.github.io/intshop.github.io/. This Web E-Commerce For a School Project
 # Produk Kreatif
 Teknik Komputer dan Jaringan 3
 # Work Group
