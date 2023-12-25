@@ -1,5 +1,5 @@
 # INTshop
-https://syntaxteam.github.io/intshop.github.io/. This Web E-Commerce For a School Project
+https://syntaxteam7.github.io/intshop.github.io/. This Web E-Commerce For a School Project
 # Produk Kreatif
 Teknik Komputer dan Jaringan 3
 # Work Group
